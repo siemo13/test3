@@ -9,6 +9,7 @@ class wczytaj{
   public :
   wczytaj();
 };
+
 int main() {
   string st(12,'q');
   cout << "Hello World!\n";
