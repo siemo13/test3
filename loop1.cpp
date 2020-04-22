@@ -1,4 +1,4 @@
-#include <iostream>
+# include <iostream>
 # include <string>
 using namespace std;
 
@@ -9,10 +9,6 @@ class wczytaj{
   public :
   wczytaj();
 };
-  //wczytaj ::wczytaj(){
-  //  cout<<"jestem\n";
-  //}
-
 int main() {
   string st(12,'q');
   cout << "Hello World!\n";
